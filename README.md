@@ -41,7 +41,7 @@ Before installing, ensure you meet these prerequisites:
 
 # **How To Use IT**
 
-**type ,help in chat ** 
+**Type ,help In Chat** 
 
 ## **Support and Development Builds**
 
