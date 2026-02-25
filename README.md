@@ -1,5 +1,7 @@
 # **ParadiseClient**
 
+# I think SpigotRCE forget about this project.
+
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/hydrogen-developments/ParadiseClient-X?style=for-the-badge)](https://paradise-client.net/downloads/)
 [![GitHub Issues](https://img.shields.io/github/issues/hydrogen-developments/ParadiseClient-X?style=for-the-badge)](https://paradise-client.net/downloads/)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/hydrogen-developments/ParadiseClient-X?style=for-the-badge)](https://paradise-client.net/downloads/)
@@ -36,6 +38,12 @@ Before installing, ensure you meet these prerequisites:
 
 - **Java**: Version 21
 - **Fabric & Minecraft**: Version 1.21.5
+
+# **How To Use IT**
+
+```
+,help
+``` 
 
 ## **Support and Development Builds**
 
